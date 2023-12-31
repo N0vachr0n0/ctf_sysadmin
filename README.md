@@ -4,7 +4,7 @@ CTF Challenges for Sysadmin (adminsys) linux or SRE
 # Intro (MOTD)
 
 Hello to you !
-Thanks to be here. I just create some CTF challenges that I call EDS (Explore the Deep System) for sysadmin linux or SRE or linux learners.<br>
+Thanks to be here. I created some CTF challenges that I call EDS (Explore the Deep System) for sysadmin linux or SRE or linux learners.<br>
 All challenges are based on docker environment. Don't worry, you can use docker play.<br>
 Enjoy it !!!!
 
